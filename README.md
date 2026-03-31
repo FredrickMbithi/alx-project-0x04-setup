@@ -2,7 +2,7 @@
 
 Collection of intermediate ALX frontend projects focusing on JavaScript frameworks and component-based development.
 
-## 📚 Projects Included
+## Projects Included
 
 ### alx-project-0x04
 - **Focus:** JavaScript ES6+ features
@@ -16,7 +16,7 @@ Collection of intermediate ALX frontend projects focusing on JavaScript framewor
 - **Focus:** React Router and state management
 - **Topics:** Navigation, context API, advanced hooks
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 - Master modern JavaScript (ES6+)
 - Build component-based UIs with React
@@ -24,7 +24,7 @@ Collection of intermediate ALX frontend projects focusing on JavaScript framewor
 - Manage application state
 - Fetch and display API data
 
-## 🚀 Getting Started
+## Getting Started
 
 Each project is self-contained:
 
@@ -34,7 +34,7 @@ npm install
 npm start
 ```
 
-## 📖 Skills Demonstrated
+## Skills Demonstrated
 
 - ES6+ syntax (destructuring, spread, modules)
 - React fundamentals (JSX, components, lifecycle)
